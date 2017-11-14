@@ -21,15 +21,17 @@ int main( int argc, char** argv )
     vector<vector<Point> > contours;
     vector<Vec4i> hierarchy;
 
-    findContours( src, contours, hierarchy,
-        CV_RETR_CCOMP, CV_CHAIN_APPROX_SIMPLE );
+    findContours( src, contours, hierarchy, CV_RETR_CCOMP, CV_CHAIN_APPROX_SIMPLE );
 
     // iterate through all the top-level contours,
     // draw each connected component with its own random color
-    int idx = 0;
-    for( ; idx >= 0; idx = hierarchy[idx][0] )
+
+    for(int idx = 0; idx >= 0; idx = hierarchy[idx][0] )
     {
         Scalar color( rand()&255, rand()&255, rand()&255 );
+
+        if(hierarchy[idx][3] != -1)
+            continue; // skip holes
         drawContours( dst, contours, idx, color, 2, 8, hierarchy );
     }
 
