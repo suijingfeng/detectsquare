@@ -1,8 +1,0 @@
-/home/suijingfeng/Desktop/detectsquare/build/CMakeFiles/rebuild_cache.dir
-/home/suijingfeng/Desktop/detectsquare/build/CMakeFiles/edit_cache.dir
-/home/suijingfeng/Desktop/detectsquare/build/CMakeFiles/convexhull.dir
-/home/suijingfeng/Desktop/detectsquare/build/CMakeFiles/detectsquare.dir
-/home/suijingfeng/Desktop/detectsquare/build/CMakeFiles/drawContours.dir
-/home/suijingfeng/Desktop/detectsquare/build/CMakeFiles/minarea.dir
-/home/suijingfeng/Desktop/detectsquare/build/CMakeFiles/threshold.dir
-/home/suijingfeng/Desktop/detectsquare/build/CMakeFiles/rotatedRect.dir
