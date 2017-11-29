@@ -75,7 +75,7 @@ int main( int /*argc*/, char** /*argv*/ )
 
         char key = (char)waitKey();
         if( key == 27 || key == 'q' || key == 'Q' ) // 'ESC'
-            break;
+            continue;
     }
 
     return 0;

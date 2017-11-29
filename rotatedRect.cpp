@@ -40,18 +40,17 @@ enum { CALIPERS_MAXHEIGHT=0, CALIPERS_MINAREARECT=1, CALIPERS_MAXDIST=2 };
 cv::RotatedRect rotatingCalipersMinAreaRect(std::vector<cv::Point> &points)
 {
     int n = points.size();
-    // std::cout << "hpoint size: " << n << std::endl;
+
+    std::vector<float> vect_length(n);
+    std::vector<cv::Point> vect(n);
+    cv::RotatedRect box;
     
-    cv::AutoBuffer<float> abuf(n*3);
-    float* vect_length = abuf;
-    cv::Point2f* vect = (cv::Point2f*)(vect_length + n);
     int seq[4] = {0, 0, 0, 0};
     float minarea;
-    cv::RotatedRect box;
-
-    // rotating calipers sides will always have coordinates (a,b) (-b,a) (-a,-b) (b, -a)
+    
     // Base vector (base_a, base_b) should be initialized by (-1,0), if convex hull orientation is anti-clockwised
     float base_a = 1.0, base_b = 0;
+    // rotating calipers sides will always have coordinates (a,b) (-b,a) (-a,-b) (b, -a)
 
     // 
     { 
@@ -107,18 +106,17 @@ cv::RotatedRect rotatingCalipersMinAreaRect(std::vector<cv::Point> &points)
         {
             // The number of calipers edges that has minimal angle with edge 
             int main_element = -1;
+            
+            float maxcos = -1;
+            // choose minimal angle 
+            for(int i = 0; i < 4; ++i)
             {
-                float maxcos = -1;
-                /* choose minimal angle */
-                for(int i = 0; i < 4; ++i)
+                if(cos[i] > maxcos)
                 {
-                    if(cos[i] > maxcos)
-                    {
-                        maxcos = cos[i];
-                        main_element = i;
-                    }
+                    maxcos = cos[i];
+                    main_element = i;
                 }
-            }
+            } 
             
             // index of the main clement point 
             int idx = seq[main_element];

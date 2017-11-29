@@ -31,5 +31,5 @@ target_link_libraries(rotatedRect ${OpenCV_LIBS})
 add_executable(minarea minarea.cpp)
 target_link_libraries(minarea ${OpenCV_LIBS})
 
-add_executable(convexhull convexhull.cpp)
-target_link_libraries(convexhull ${OpenCV_LIBS})    
+add_executable(convexHull convexHull.cpp)
+target_link_libraries(convexHull ${OpenCV_LIBS})    
