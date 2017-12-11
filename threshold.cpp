@@ -1,29 +1,68 @@
-#include <cv.h>
 #include <opencv2/highgui.hpp>
 #include <opencv2/imgproc.hpp>
-#include <iostream>
 
-using namespace cv;
-using namespace std;
-
-
-void threshold( cv::Mat & img, unsigned int iThresh )
+void threshold( cv::Mat & img, unsigned int iThresh, unsigned int max_value)
 {
-    if( iThresh > 0 )
+    if( iThresh >= 0 )
     {
         for (int jj = 0; jj < img.rows; jj++)
         {
             unsigned char * row = img.ptr(jj);
             for (int ii = 0; ii < img.cols; ii++)
             {
-                if( row[ii] < iThresh )
+                if( row[ii] <= iThresh )
                     row[ii] = 0;
                 else
-                    row[ii] = 255;
+                    row[ii] = max_value;
             }
         }
     }
 }
+
+
+void threshold( const CvMat* srcarr, unsigned int thresh, unsigned int maxval)
+{
+    cv::Mat src = cv::cvarrToMat(srcarr);
+/* 
+    CV_Assert( src.size == dst.size && src.channels() == dst.channels() &&
+        (src.depth() == dst.depth() || dst.depth() == CV_8U));
+
+    thresh = cv::threshold( src, dst, thresh, maxval, type );
+    if( dst0.data != dst.data )
+        dst.convertTo( dst0, dst0.depth() );
+    return thresh;
+*/
+    threshold( src, thresh, maxval);
+}
+
+void biMakeBorder(cv::Mat &img, unsigned char val)
+{
+    int esz = img.type();
+    
+    int m = img.rows;
+    int n = img.cols;
+    int step = img.step;
+
+    unsigned char *fRow = img.ptr(0);
+    unsigned char *lRow = img.ptr(m-1);
+
+    for (int i = 0; i < n; i++)
+    {
+        fRow[i] = lRow[i] = val;
+    }
+
+    unsigned char *fCol = fRow + step;
+    unsigned char *lCol = fCol + step - 1; 
+
+    for(int y = 1; y < n - 1; y++)
+    {
+        *fCol = *lCol = val;
+        fCol += step;
+        lCol += step;
+    }
+}
+
+
 
 /* binary image inverse */
 void bimInverse(cv::Mat & img)
@@ -39,7 +78,7 @@ void bimInverse(cv::Mat & img)
 }
 
 
-float imMean( cv::Mat & img )
+float bimMean( cv::Mat & img )
 {
     unsigned int sum = 0;
     for (int jj = 0; jj < img.rows; jj++)
@@ -52,46 +91,3 @@ float imMean( cv::Mat & img )
     }
     return ( (float)sum / (img.rows * img.cols ));
 }
-
-
-int main( int argc, char** argv )
-{
-    float mean = 128.0f;
-    Mat src, imgGray;
-    // the first command-line parameter must be a filename of the binary
-    // (black-n-white) image
-    if( argc != 2 )
-    {
-        printf("usage: ./%s imageName.png", argv[0]);
-        return -1;
-    }
-
-    src = cv::imread(argv[1], 1);
-    if (src.channels() != 1)
-    {
-        cvtColor(src, imgGray, cv::COLOR_BGR2GRAY);
-    }
-    cv::Size imageSize = imgGray.size();
-    std::cout << "src.dims: " << src.dims << endl;
-    std::cout << "src.isContinuous(): " << src.isContinuous() << endl;
-    std::cout << "src.channels(): " << src.channels() << endl;
-
-    std::cout << "imgGray.dims: " << imgGray.dims << endl;
-    std::cout << "imgGray.isContinuous(): " << imgGray.isContinuous() << endl;
-    std::cout << "imgGray.channels(): " << imgGray.channels() << endl;
-
-    namedWindow( "Source", 1 );
-    imshow( "Source", src );
-
-    std::cout << cv::mean(src) << endl;
-
-    Mat dst = imgGray.clone();
-    mean = imMean(dst);
-    std::cout << "gray image mean: " << mean << std::endl;
-    threshold(dst, mean );
-        
-    namedWindow( "threshold", 1 );
-    imshow( "threshold", dst );
-    waitKey(0);
-}
-

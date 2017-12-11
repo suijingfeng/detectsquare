@@ -1,0 +1,581 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+ARCHITECTURE_ID	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	396;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	399;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	402;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	406;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	408;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	410;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	414;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	417;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	420;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	425;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	428;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	431;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	435;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	391;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	394;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	397;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	401;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	403;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	405;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	409;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	412;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	415;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	420;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	423;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	426;"	d	file:
+ARCHITECTURE_ID	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	430;"	d	file:
+BinarizationHistogramBased	detectsquare.cpp	/^void BinarizationHistogramBased( cv::Mat & img )$/;"	f
+CALIB_CB_ADAPTIVE_THRESH	detectsquare.cpp	22;"	d	file:
+CALIB_CB_FAST_CHECK	detectsquare.cpp	25;"	d	file:
+CALIB_CB_FILTER_QUADS	detectsquare.cpp	24;"	d	file:
+CALIB_CB_NORMALIZE_IMAGE	detectsquare.cpp	23;"	d	file:
+CMAKE_BINARY_DIR	build/Makefile	/^CMAKE_BINARY_DIR = \/home\/suijingfeng\/Desktop\/detectsquare\/build$/;"	m
+CMAKE_COMMAND	build/Makefile	/^CMAKE_COMMAND = \/usr\/bin\/cmake$/;"	m
+CMAKE_SOURCE_DIR	build/Makefile	/^CMAKE_SOURCE_DIR = \/home\/suijingfeng\/Desktop\/detectsquare$/;"	m
+COMPILER_ID	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	103;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	110;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	117;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	124;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	132;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	137;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	144;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	147;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	14;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	150;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	153;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	168;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	182;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	192;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	210;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	219;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	222;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	237;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	244;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	262;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	265;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	268;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	37;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	45;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	51;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	57;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	66;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	75;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	89;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	96;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	101;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	108;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	115;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	122;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	129;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	137;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	13;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	142;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	149;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	152;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	155;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	170;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	184;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	194;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	19;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	212;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	221;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	224;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	239;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	257;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	260;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	263;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	42;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	50;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	56;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	62;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	71;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	80;"	d	file:
+COMPILER_ID	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	94;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	105;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	112;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	119;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	125;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	133;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	139;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	157;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	172;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	183;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	194;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	19;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	213;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	225;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	230;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	239;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	247;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	252;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	38;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	46;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	53;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	59;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	68;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	78;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	83;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	91;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	98;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	103;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	110;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	117;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	124;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	130;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	138;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	144;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	159;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	15;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	174;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	185;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	196;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	215;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	227;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	232;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	242;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	247;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	24;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	43;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	51;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	58;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	64;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	73;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	83;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	88;"	d	file:
+COMPILER_VERSION_MAJOR	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	96;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	106;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	113;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	120;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	126;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	134;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	140;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	158;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	173;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	185;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	195;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	20;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	214;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	226;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	231;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	240;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	248;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	253;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	39;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	47;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	54;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	60;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	69;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	79;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	84;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	92;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	99;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	104;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	111;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	118;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	125;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	131;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	139;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	145;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	160;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	16;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	175;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	187;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	197;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	216;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	228;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	233;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	243;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	248;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	25;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	44;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	52;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	59;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	65;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	74;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	84;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	89;"	d	file:
+COMPILER_VERSION_MINOR	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	97;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	100;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	107;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	114;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	121;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	128;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	141;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	159;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	174;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	188;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	199;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	202;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	215;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	227;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	22;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	232;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	241;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	249;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	24;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	254;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	41;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	48;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	62;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	71;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	80;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	85;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	93;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	105;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	112;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	119;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	126;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	133;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	146;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	161;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	176;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	190;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	201;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	204;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	217;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	229;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	234;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	244;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	249;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	27;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	29;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	46;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	53;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	67;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	76;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	85;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	90;"	d	file:
+COMPILER_VERSION_PATCH	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	98;"	d	file:
+COMPILER_VERSION_TWEAK	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	165;"	d	file:
+COMPILER_VERSION_TWEAK	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	206;"	d	file:
+COMPILER_VERSION_TWEAK	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	28;"	d	file:
+COMPILER_VERSION_TWEAK	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	167;"	d	file:
+COMPILER_VERSION_TWEAK	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	208;"	d	file:
+COMPILER_VERSION_TWEAK	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	33;"	d	file:
+CONVEXHULL_H_	convexHull.h	2;"	d
+CV_GET_WRITTEN_ELEM	findContours.cpp	21;"	d	file:
+CalcConvexHull	graham2.cpp	/^void CalcConvexHull(std::vector<Point> &points, std::vector<Point> &hpoints)$/;"	f
+CompareCos	graham2.cpp	/^bool CompareCos(const Point &pt1, const Point &pt2)$/;"	f
+Contour	findContours.h	/^struct Contour$/;"	s
+CvCBCorner	detectsquare.cpp	/^struct CvCBCorner$/;"	s	file:
+CvCBQuad	detectsquare.cpp	/^struct CvCBQuad$/;"	s	file:
+CvContourEx	detectsquare.cpp	/^struct CvContourEx$/;"	s	file:
+CvLinkedRunPoint	findContours.cpp	/^struct CvLinkedRunPoint$/;"	s	file:
+CvtSeqToVector	findContours.cpp	/^void CvtSeqToVector(const CvSeq *seq, std::vector<cv::Point> &p)$/;"	f
+DEC	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	439;"	d	file:
+DEC	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	434;"	d	file:
+DrawChessboardCorners	detectsquare.cpp	/^void DrawChessboardCorners( const cv::Mat & img, CvSize pattern_size, CvPoint2D32f* corners, int count, int found )$/;"	f
+EQUALS	build/Makefile	/^EQUALS = =$/;"	m
+EndProcessContour	findContours.cpp	/^static void EndProcessContour( CvContourScanner scanner )$/;"	f	file:
+FINDCONTOURS_H_	findContours.h	2;"	d
+FetchContour	findContours.cpp	/^static void FetchContour( schar *ptr, int step, CvPoint pt, CvSeq* contour, int _method )$/;"	f	file:
+FindChessboardCorners	detectsquare.cpp	/^int FindChessboardCorners(const cv::Mat & I, CvSize pattern_size, CvPoint2D32f* out_corners, int* out_corner_count, int flags )$/;"	f
+FindContoursImpl	findContours.cpp	/^static int FindContoursImpl(cv::Mat img, CvMemStorage* storage, CvSeq** firstContour, int mode, int method, CvPoint offset)$/;"	f	file:
+FindNextContour	findContours.cpp	/^CvSeq* FindNextContour( CvContourScanner scanner )$/;"	f
+GetBlackQuadHypotheses	rotatedRect.cpp	/^void GetBlackQuadHypotheses(const std::vector<std::vector< cv::Point > > & contours, const std::vector< cv::Vec4i > & hierarchy, std::vector<float> & quads)$/;"	f
+GetIntensityHistogram	detectsquare.cpp	/^void GetIntensityHistogram( const cv::Mat & img, std::vector<int>& piHist )$/;"	f
+GetQuadrangleHypotheses	detectsquare.cpp	/^void GetQuadrangleHypotheses(const std::vector<std::vector< cv::Point > > & contours, $/;"	f
+GetQuadrangleHypotheses	improcess.cpp	/^void GetQuadrangleHypotheses(const std::vector<std::vector< cv::Point > > & contours, $/;"	f
+GradientOfHistogram	detectsquare.cpp	/^void GradientOfHistogram(const std::vector<int>& piHist, std::vector<int>& piHistGrad)$/;"	f
+HEX	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	450;"	d	file:
+HEX	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	445;"	d	file:
+ICV_CONNECTING_ABOVE	findContours.cpp	23;"	d	file:
+ICV_CONNECTING_BELOW	findContours.cpp	24;"	d	file:
+ICV_SINGLE	findContours.cpp	22;"	d	file:
+ID_VOID_MAIN	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	6;"	d	file:
+MAX_CONTOUR_APPROX	detectsquare.cpp	19;"	d	file:
+PI	graham.cpp	6;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	293;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	296;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	299;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	302;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	305;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	308;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	311;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	314;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	317;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	320;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	323;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	326;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	329;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	332;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	335;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	338;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	341;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	344;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	347;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	350;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	353;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	356;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	359;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	362;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	365;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	369;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	372;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	375;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	378;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	381;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	385;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	288;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	291;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	294;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	297;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	300;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	303;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	306;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	309;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	312;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	315;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	318;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	321;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	324;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	327;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	330;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	333;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	336;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	339;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	342;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	345;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	348;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	351;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	354;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	357;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	360;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	364;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	367;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	370;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	373;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	376;"	d	file:
+PLATFORM_ID	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	380;"	d	file:
+PRINTF	detectsquare.cpp	/^static int PRINTF( const char* fmt, ... )$/;"	f	file:
+PRINTF	detectsquare.cpp	120;"	d	file:
+Point	stackHull.cpp	/^    Point(int a, int b)$/;"	f	struct:Point
+Point	stackHull.cpp	/^typedef struct Point$/;"	s	file:
+Point	stackHull.cpp	/^} Point;$/;"	t	typeref:struct:Point	file:
+RM	build/Makefile	/^RM = \/usr\/bin\/cmake -E remove -f$/;"	m
+ROTATINGCALIPERS_H_	rotatingCalipers.h	2;"	d
+SAVE_TEMP_RES	detectsquare.cpp	20;"	d	file:
+SAVE_TEMP_RES	rotatedRect.cpp	8;"	d	file:
+SHELL	build/Makefile	/^SHELL = \/bin\/sh$/;"	m
+SHOW	detectsquare.cpp	/^static void SHOW(const std::string & name, cv::Mat & img)$/;"	f	file:
+SHOW	detectsquare.cpp	118;"	d	file:
+SHOW_HIST	detectsquare.cpp	/^void SHOW_HIST(std::string name, std::vector<int> piHist)$/;"	f
+SHOW_QUADS	detectsquare.cpp	/^static void SHOW_QUADS(const std::string & name, const cv::Mat & img_, CvCBQuad * quads, int quads_count)$/;"	f	file:
+SHOW_QUADS	detectsquare.cpp	119;"	d	file:
+SIMULATE_ID	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	155;"	d	file:
+SIMULATE_ID	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	16;"	d	file:
+SIMULATE_ID	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	170;"	d	file:
+SIMULATE_ID	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	157;"	d	file:
+SIMULATE_ID	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	172;"	d	file:
+SIMULATE_ID	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	21;"	d	file:
+SIMULATE_VERSION_MAJOR	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	162;"	d	file:
+SIMULATE_VERSION_MAJOR	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	177;"	d	file:
+SIMULATE_VERSION_MAJOR	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	32;"	d	file:
+SIMULATE_VERSION_MAJOR	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	164;"	d	file:
+SIMULATE_VERSION_MAJOR	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	179;"	d	file:
+SIMULATE_VERSION_MAJOR	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	37;"	d	file:
+SIMULATE_VERSION_MINOR	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	163;"	d	file:
+SIMULATE_VERSION_MINOR	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	178;"	d	file:
+SIMULATE_VERSION_MINOR	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	33;"	d	file:
+SIMULATE_VERSION_MINOR	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	165;"	d	file:
+SIMULATE_VERSION_MINOR	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	180;"	d	file:
+SIMULATE_VERSION_MINOR	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	38;"	d	file:
+STRINGIFY	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	289;"	d	file:
+STRINGIFY	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	284;"	d	file:
+STRINGIFY_HELPER	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	288;"	d	file:
+STRINGIFY_HELPER	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	283;"	d	file:
+SUFFIXES	build/Makefile	/^SUFFIXES =$/;"	m
+SmoothHistogram	detectsquare.cpp	/^void SmoothHistogram( const std::vector<int>& piHist, std::vector<int>& piHistSmooth, int iWidth )$/;"	f
+THRESHOLD_H_	threshold.h	2;"	d
+TraceContour	findContours.cpp	/^static int TraceContour( schar *ptr, int step, schar *stop_ptr, int is_hole )$/;"	f	file:
+TraceContour_32s	findContours.cpp	/^static int TraceContour_32s( int *ptr, int step, int *stop_ptr, int is_hole )$/;"	f	file:
+TreeToNodeSeq	findContours.cpp	/^CvSeq* TreeToNodeSeq(const void* first, int header_size, CvMemStorage* storage )$/;"	f
+USING_USBCAM	detectsquare.cpp	17;"	d	file:
+_CvContourInfo	findContours.h	/^typedef struct _CvContourInfo$/;"	s
+_CvContourInfo	findContours.h	/^} _CvContourInfo;$/;"	t	typeref:struct:_CvContourInfo
+_CvContourScanner	findContours.h	/^typedef struct _CvContourScanner$/;"	s
+_CvContourScanner	findContours.h	/^} _CvContourScanner;$/;"	t	typeref:struct:_CvContourScanner
+_CvPtInfo	findContours.cpp	/^_CvPtInfo;$/;"	t	typeref:struct:_CvPtInfo	file:
+_CvPtInfo	findContours.cpp	/^typedef struct _CvPtInfo$/;"	s	file:
+approx_method1	findContours.h	/^    int approx_method1;         \/* approx method when tracing *\/$/;"	m	struct:_CvContourScanner
+approx_method2	findContours.h	/^    int approx_method2;         \/* final approx method *\/$/;"	m	struct:_CvContourScanner
+backup_pos	findContours.h	/^    CvMemStoragePos backup_pos; \/* beginning of the latest approx. contour *\/$/;"	m	struct:_CvContourScanner
+backup_pos2	findContours.h	/^    CvMemStoragePos backup_pos2;        \/* ending of the latest approx. contour *\/$/;"	m	struct:_CvContourScanner
+bimInverse	improcess.cpp	/^void bimInverse(cv::Mat & img)$/;"	f
+bimInverse	threshold.cpp	/^void bimInverse(cv::Mat & img)$/;"	f
+block_max	findContours.h	/^    schar*    block_max;      \/**< Maximal bound of the last block.     *\/$/;"	m	struct:Contour
+checkBlackQuads	rotatedRect.cpp	/^bool checkBlackQuads(std::vector<float> & quads, const cv::Size & size)$/;"	f
+checkChessboard	detectsquare.cpp	/^int checkChessboard(const cv::Mat & img, const cv::Size & size)$/;"	f
+checkChessboardBinary	detectsquare.cpp	/^int checkChessboardBinary(const cv::Mat & img, const cv::Size & size)$/;"	f
+checkChessboardBinary	rotatedRect.cpp	/^int checkChessboardBinary(const cv::Mat & img, const cv::Size & size)$/;"	f
+checkQuads	detectsquare.cpp	/^static bool checkQuads(vector<pair<float, int> > & quads, const cv::Size & size)$/;"	f	file:
+checkQuads	improcess.cpp	/^static bool checkQuads(vector<pair<float, int> > & quads, const cv::Size & size)$/;"	f	file:
+checkVector2	improcess.cpp	/^int checkVector2(cv::Mat &mat, int _elemChannels, int _depth, bool _requireContinuous)$/;"	f
+cinfo_set	findContours.h	/^    CvSet *cinfo_set;           \/* set of _CvContourInfo nodes *\/$/;"	m	struct:_CvContourScanner
+cinfo_storage	findContours.h	/^    CvMemStorage *cinfo_storage;        \/* contains _CvContourInfo nodes *\/$/;"	m	struct:_CvContourScanner
+cinfo_table	findContours.h	/^    _CvContourInfo *cinfo_table[128];$/;"	m	struct:_CvContourScanner
+cinfo_temp	findContours.h	/^    _CvContourInfo cinfo_temp;  \/* temporary var which is used in simple modes *\/$/;"	m	struct:_CvContourScanner
+cmp	graham.cpp	/^bool cmp(node a, node b)\/\/极角排序$/;"	f
+cmp1	graham.cpp	/^bool cmp1(node a, node b)\/\/排序找第一个点$/;"	f
+cmp2	graham.cpp	/^bool cmp2(node a, node b)\/\/极角排序另一种方法，速度快$/;"	f
+col	detectsquare.cpp	/^    int row, col;   \/\/ row and column of this quad$/;"	m	struct:CvCBQuad	file:
+color	findContours.h	/^    int color;$/;"	m	struct:Contour
+compare	stackHull.cpp	/^int compare(const void *vp1, const void *vp2)$/;"	f
+contour	findContours.h	/^    CvSeq *contour;             \/* corresponding contour (may be 0, if rejected) *\/$/;"	m	struct:_CvContourInfo
+convexHull	stackHull.cpp	/^void convexHull(std::vector<Point> &points, std::vector<Point> &hull)$/;"	f
+convex_hull	convexHull.cpp	/^std::vector<cv::Point> convex_hull(std::vector<cv::Point> P)$/;"	f
+corners	detectsquare.cpp	/^    CvCBCorner *corners[4]; \/\/ Coordinates of quad corners$/;"	m	struct:CvCBQuad	file:
+count	detectsquare.cpp	/^    int count;       \/\/ Number of neighbor corners$/;"	m	struct:CvCBCorner	file:
+count	detectsquare.cpp	/^    int count;      \/\/ Number of quad neighbors$/;"	m	struct:CvCBQuad	file:
+counter	detectsquare.cpp	/^    int counter;$/;"	m	struct:CvContourEx	file:
+cross	convexHull.cpp	/^int static cross(const cv::Point &O, const cv::Point &A, const cv::Point &B)$/;"	f	file:
+cross	graham.cpp	/^int inline cross(node a, node b, node c)$/;"	f
+cvEndFindContours	findContours.cpp	/^CvSeq * cvEndFindContours(CvContourScanner * _scanner )$/;"	f
+delta_elems	findContours.h	/^    int       delta_elems;    \/**< Grow seq this many at a time.        *\/$/;"	m	struct:Contour
+dis	graham.cpp	/^double inline dis(node a, node b)$/;"	f
+drawBox	improcess.cpp	/^void drawBox(cv::RotatedRect box)$/;"	f
+drawBox	rotatedRect.cpp	/^void drawBox(cv::Mat &img, cv::RotatedRect box)$/;"	f
+edge_len	detectsquare.cpp	/^    float edge_len; \/\/ quad edge len, in pix^2$/;"	m	struct:CvCBQuad	file:
+elem_size	findContours.h	/^    int       elem_size;      \/**< Size of sequence element in bytes.   *\/$/;"	m	struct:Contour
+elem_size1	findContours.h	/^    int elem_size1;             \/* elem size of fetched contours *\/$/;"	m	struct:_CvContourScanner
+elem_size2	findContours.h	/^    int elem_size2;             \/*                                       *\/$/;"	m	struct:_CvContourScanner
+features	build/CMakeFiles/feature_tests.c	/^  const char features[] = {"\\n"$/;"	v
+features	build/CMakeFiles/feature_tests.cxx	/^  const char features[] = {"\\n"$/;"	v
+fillQuads	detectsquare.cpp	/^static void fillQuads(cv::Mat & white, cv::Mat & black, double white_thresh, double black_thresh, vector<pair<float, int> > & quads)$/;"	f	file:
+findContours	findContours.cpp	/^void findContours(cv::Mat _image, std::vector< std::vector<cv::Point> >& _contours, std::vector<cv::Vec4i>& hierarchy)$/;"	f
+findEndContourPoint	findContours.cpp	/^inline int findEndContourPoint(unsigned char *src_data, CvSize img_size, int j, bool haveSIMD)$/;"	f
+findStartContourPoint	findContours.cpp	/^inline int findStartContourPoint(uchar *src_data, CvSize img_size, int j, bool haveSIMD)$/;"	f
+first	findContours.h	/^    CvSeqBlock* first;        \/**< Pointer to the first sequence block. *\/$/;"	m	struct:Contour
+flags	findContours.h	/^    int       flags;            \/**< Miscellaneous flags.     *\/$/;"	m	struct:Contour
+flags	findContours.h	/^    int flags;$/;"	m	struct:_CvContourInfo
+frame	findContours.h	/^    CvSeq frame;                \/* frame itself *\/$/;"	m	struct:_CvContourScanner
+frame_info	findContours.h	/^    _CvContourInfo frame_info;  \/* information about frame *\/$/;"	m	struct:_CvContourScanner
+free_blocks	findContours.h	/^    CvSeqBlock* free_blocks;  \/**< Free blocks list.                    *\/$/;"	m	struct:Contour
+group_idx	detectsquare.cpp	/^    int group_idx;  \/\/ quad group ID$/;"	m	struct:CvCBQuad	file:
+h_next	findContours.h	/^    struct    CvSeq* h_next;    \/**< Next sequence.           *\/$/;"	m	struct:Contour	typeref:struct:Contour::CvSeq
+h_prev	findContours.h	/^    struct    CvSeq* h_prev;    \/**< Previous sequence.       *\/$/;"	m	struct:Contour	typeref:struct:Contour::CvSeq
+header_size	findContours.h	/^    int       header_size;      \/**< Size of sequence header. *\/$/;"	m	struct:Contour
+header_size1	findContours.h	/^    int header_size1;           \/* hdr size of fetched contours *\/$/;"	m	struct:_CvContourScanner
+header_size2	findContours.h	/^    int header_size2;           \/*        the same for approx. contours  *\/$/;"	m	struct:_CvContourScanner
+icvAddOuterQuad	detectsquare.cpp	/^static int icvAddOuterQuad( CvCBQuad *quad, CvCBQuad **quads, int quad_count,$/;"	f	file:
+icvCheckBoardMonotony	detectsquare.cpp	/^static int icvCheckBoardMonotony( CvPoint2D32f* corners, CvSize pattern_size )$/;"	f	file:
+icvCheckQuadGroup	detectsquare.cpp	/^static int icvCheckQuadGroup( CvCBQuad **quad_group, int quad_count,$/;"	f	file:
+icvCleanFoundConnectedQuads	detectsquare.cpp	/^static int icvCleanFoundConnectedQuads( int quad_count, CvCBQuad **quad_group, CvSize pattern_size )$/;"	f	file:
+icvCodeDeltas	findContours.cpp	/^static const CvPoint icvCodeDeltas[8] =$/;"	v	file:
+icvEndProcessContour	findContours.cpp	/^static void icvEndProcessContour( CvContourScanner scanner )$/;"	f	file:
+icvFetchContourEx	findContours.cpp	/^static void icvFetchContourEx( schar* ptr, int step, CvPoint pt, CvSeq* contour, int _method, int nbd, CvRect* _rect)$/;"	f	file:
+icvFetchContourEx_32s	findContours.cpp	/^static void icvFetchContourEx_32s( int* ptr, int step, CvPoint pt, CvSeq* contour, int _method, CvRect* _rect )$/;"	f	file:
+icvFindConnectedQuads	detectsquare.cpp	/^static int icvFindConnectedQuads( CvCBQuad *quad, int quad_count, CvCBQuad **out_group, int group_idx, CvMemStorage* storage )$/;"	f	file:
+icvFindContoursInInterval	findContours.cpp	/^static int icvFindContoursInInterval(const CvArr* src, CvMemStorage* storage, CvSeq** result, int contourHeaderSize )$/;"	f	file:
+icvFindQuadNeighbors	detectsquare.cpp	/^static void icvFindQuadNeighbors( CvCBQuad *quads, int quad_count )$/;"	f	file:
+icvGenerateQuads	detectsquare.cpp	/^static int icvGenerateQuads( CvCBQuad **out_quads, CvCBCorner **out_corners,$/;"	f	file:
+icvOrderFoundConnectedQuads	detectsquare.cpp	/^static int icvOrderFoundConnectedQuads( int quad_count, CvCBQuad **quads,$/;"	f	file:
+icvOrderQuad	detectsquare.cpp	/^static void icvOrderQuad(CvCBQuad *quad, CvCBCorner *corner, int common)$/;"	f	file:
+icvRemoveQuadFromGroup	detectsquare.cpp	/^static void icvRemoveQuadFromGroup(CvCBQuad **quads, int count, CvCBQuad *q0)$/;"	f	file:
+imMean	threshold.cpp	/^float imMean( cv::Mat & img )$/;"	f
+img	findContours.h	/^    schar *img;                 \/* current image row *\/$/;"	m	struct:_CvContourScanner
+img0	findContours.h	/^    schar *img0;                \/* image origin *\/$/;"	m	struct:_CvContourScanner
+img_size	findContours.h	/^    CvSize img_size;            \/* ROI size *\/$/;"	m	struct:_CvContourScanner
+img_step	findContours.h	/^    int img_step;               \/* image step *\/$/;"	m	struct:_CvContourScanner
+info_arch	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^char const* info_arch = "INFO" ":" "arch[" ARCHITECTURE_ID "]";$/;"	v
+info_arch	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_arch = "INFO" ":" "arch[" ARCHITECTURE_ID "]";$/;"	v
+info_compiler	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^char const* info_compiler = "INFO" ":" "compiler[" COMPILER_ID "]";$/;"	v
+info_compiler	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_compiler = "INFO" ":" "compiler[" COMPILER_ID "]";$/;"	v
+info_cray	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^char const *info_cray = "INFO" ":" "compiler_wrapper[CrayPrgEnv]";$/;"	v
+info_cray	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const *info_cray = "INFO" ":" "compiler_wrapper[CrayPrgEnv]";$/;"	v
+info_language_dialect_default	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^const char* info_language_dialect_default = "INFO" ":" "dialect_default["$/;"	v
+info_language_dialect_default	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^const char* info_language_dialect_default = "INFO" ":" "dialect_default["$/;"	v
+info_platform	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^char const* info_platform = "INFO" ":" "platform[" PLATFORM_ID "]";$/;"	v
+info_platform	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_platform = "INFO" ":" "platform[" PLATFORM_ID "]";$/;"	v
+info_simulate	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^char const* info_simulate = "INFO" ":" "simulate[" SIMULATE_ID "]";$/;"	v
+info_simulate	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_simulate = "INFO" ":" "simulate[" SIMULATE_ID "]";$/;"	v
+info_simulate_version	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^char const info_simulate_version[] = {$/;"	v
+info_simulate_version	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const info_simulate_version[] = {$/;"	v
+info_version	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^char const info_version[] = {$/;"	v
+info_version	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const info_version[] = {$/;"	v
+initial_pos	findContours.h	/^    CvMemStoragePos initial_pos;        \/* starting storage pos *\/$/;"	m	struct:_CvContourScanner
+is_hole	findContours.h	/^    int is_hole;                \/* hole flag *\/$/;"	m	struct:_CvContourInfo
+k	findContours.cpp	/^    int k;                      \/* support region *\/$/;"	m	struct:_CvPtInfo	file:
+l_cinfo	findContours.h	/^    _CvContourInfo *l_cinfo;    \/* information about latest approx. contour *\/$/;"	m	struct:_CvContourScanner
+less_pred	detectsquare.cpp	/^inline bool less_pred(const std::pair<float, int>& p1, const std::pair<float, int>& p2)$/;"	f
+less_pred	improcess.cpp	/^inline bool less_pred(const std::pair<float, int>& p1, const std::pair<float, int>& p2)$/;"	f
+link	findContours.cpp	/^    struct CvLinkedRunPoint* link;$/;"	m	struct:CvLinkedRunPoint	typeref:struct:CvLinkedRunPoint::CvLinkedRunPoint	file:
+lnbd	findContours.h	/^    CvPoint lnbd;               \/* position of the last met contour *\/$/;"	m	struct:_CvContourScanner
+main	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^int main(int argc, char* argv[])$/;"	f
+main	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^void main() {}$/;"	f
+main	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^int main(int argc, char* argv[])$/;"	f
+main	build/CMakeFiles/feature_tests.c	/^int main(int argc, char** argv) { (void)argv; return features[argc]; }$/;"	f
+main	build/CMakeFiles/feature_tests.cxx	/^int main(int argc, char** argv) { (void)argv; return features[argc]; }$/;"	f
+main	detectsquare.cpp	/^int main(int argc, char** argv)$/;"	f
+main	drawContours.cpp	/^int main( int argc, char** argv )$/;"	f
+main	graham.cpp	/^int main()$/;"	f
+main	graham2.cpp	/^int main(void)$/;"	f
+main	learnCvSeq.cpp	/^int main()$/;"	f
+main	rotatedRect.cpp	/^int main( int argc, char** argv )$/;"	f
+main	stackHull.cpp	/^int main()$/;"	f
+makeZeroBorders	improcess.cpp	/^void makeZeroBorders()$/;"	f
+meanDist	detectsquare.cpp	/^    float meanDist(int *_n) const$/;"	f	struct:CvCBCorner
+minAreaRect	improcess.cpp	/^cv::RotatedRect cv::minAreaRect( InputArray _points )$/;"	f	class:cv
+mode	findContours.h	/^    int mode;                   \/* contour scanning mode:$/;"	m	struct:_CvContourScanner
+nbd	findContours.h	/^    int nbd;                    \/* current mark val *\/$/;"	m	struct:_CvContourScanner
+neighbors	detectsquare.cpp	/^    struct CvCBCorner* neighbors[4]; \/\/ Neighbor corners$/;"	m	struct:CvCBCorner	typeref:struct:CvCBCorner::CvCBCorner	file:
+neighbors	detectsquare.cpp	/^    struct CvCBQuad *neighbors[4]; \/\/ Pointers of quad neighbors$/;"	m	struct:CvCBQuad	typeref:struct:CvCBQuad::CvCBQuad	file:
+next	findContours.cpp	/^    struct CvLinkedRunPoint* next;$/;"	m	struct:CvLinkedRunPoint	typeref:struct:CvLinkedRunPoint::CvLinkedRunPoint	file:
+next	findContours.cpp	/^    struct _CvPtInfo *next;$/;"	m	struct:_CvPtInfo	typeref:struct:_CvPtInfo::_CvPtInfo	file:
+next	findContours.h	/^    struct _CvContourInfo *next;        \/* next contour with the same mark value *\/$/;"	m	struct:_CvContourInfo	typeref:struct:_CvContourInfo::_CvContourInfo
+nextToTop	stackHull.cpp	/^Point nextToTop(stack<Point> &S)$/;"	f
+node	graham.cpp	/^struct node$/;"	s	file:
+offset	findContours.h	/^    CvPoint offset;             \/* ROI offset: coordinates, added to each contour point *\/$/;"	m	struct:_CvContourScanner
+operator !=	graham2.cpp	/^bool inline operator!=(const Point &pt1, const Point &pt2)$/;"	f
+operator !=	stackHull.cpp	/^bool inline operator!=(const Point &pt1, const Point &pt2)$/;"	f
+operator +	stackHull.cpp	/^Point inline operator+(const Point &pt1, const Point &pt2)$/;"	f
+operator -	graham2.cpp	/^Point inline operator-(const Point &pt1, const Point &pt2)$/;"	f
+operator -	stackHull.cpp	/^Point inline operator-(const Point &pt1, const Point &pt2)$/;"	f
+operator ==	stackHull.cpp	/^bool inline operator==(const Point &pt1, const Point &pt2)$/;"	f
+ordered	detectsquare.cpp	/^    bool ordered;   \/\/ true if corners\/neighbors are ordered counter-clockwise$/;"	m	struct:CvCBQuad	file:
+orientation	stackHull.cpp	/^int orientation(const Point& p, const Point& q, const Point& r)$/;"	f
+origin	findContours.h	/^    CvPoint origin;             \/* origin point (where the contour was traced from) *\/$/;"	m	struct:_CvContourInfo
+parent	findContours.h	/^    struct _CvContourInfo *parent;      \/* information about parent contour *\/$/;"	m	struct:_CvContourInfo	typeref:struct:_CvContourInfo::_CvContourInfo
+processQuads	detectsquare.cpp	/^static bool processQuads(CvCBQuad *quads, int quad_count, CvSize pattern_size, int max_quad_buf_size,$/;"	f	file:
+pt	detectsquare.cpp	/^    CvPoint2D32f pt; \/\/ Coordinates of the corner$/;"	m	struct:CvCBCorner	file:
+pt	findContours.cpp	/^    CvPoint pt;$/;"	m	struct:CvLinkedRunPoint	file:
+pt	findContours.cpp	/^    CvPoint pt;$/;"	m	struct:_CvPtInfo	file:
+pt	findContours.h	/^    CvPoint pt;                 \/* current scanner position *\/$/;"	m	struct:_CvContourScanner
+ptCmp	convexHull.cpp	/^bool static ptCmp(const cv::Point &p, const cv::Point &q)$/;"	f	file:
+ptr	findContours.h	/^    schar*    ptr;            \/**< Current write pointer.               *\/$/;"	m	struct:Contour
+qnxnto	build/CMakeFiles/3.5.1/CompilerIdC/CMakeCCompilerId.c	/^char const* qnxnto = "INFO" ":" "qnxnto[]";$/;"	v
+qnxnto	build/CMakeFiles/3.5.1/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* qnxnto = "INFO" ":" "qnxnto[]";$/;"	v
+rect	findContours.h	/^    CvRect rect;                \/* bounding rectangle *\/$/;"	m	struct:_CvContourInfo
+rect	findContours.h	/^    CvRect rect;$/;"	m	struct:Contour
+reserved	findContours.h	/^    int reserved[3];$/;"	m	struct:Contour
+rotatingCalipersMinAreaRect	rotatingCalipers.cpp	/^cv::RotatedRect rotatingCalipersMinAreaRect(std::vector<cv::Point> &points)$/;"	f
+row	detectsquare.cpp	/^    int row, col;   \/\/ row and column of this quad$/;"	m	struct:CvCBQuad	file:
+row	detectsquare.cpp	/^    int row;         \/\/ Board row index$/;"	m	struct:CvCBCorner	file:
+s	findContours.cpp	/^    int s;                      \/* curvature value *\/$/;"	m	struct:_CvPtInfo	file:
+seq_type1	findContours.h	/^    int seq_type1;              \/* type of fetched contours *\/$/;"	m	struct:_CvContourScanner
+seq_type2	findContours.h	/^    int seq_type2;              \/*                                       *\/$/;"	m	struct:_CvContourScanner
+squareDist	stackHull.cpp	/^int squareDist(Point p1, Point p2)$/;"	f
+startFindContours_Impl	findContours.cpp	/^static CvContourScanner startFindContours_Impl(cv::Mat _img, CvMemStorage* storage, int mode, int method, CvPoint offset)$/;"	f	file:
+storage	findContours.h	/^    CvMemStorage* storage;    \/**< Where the seq is stored.             *\/$/;"	m	struct:Contour
+storage1	findContours.h	/^    CvMemStorage *storage1;     \/* contains fetched contours *\/$/;"	m	struct:_CvContourScanner
+storage2	findContours.h	/^    CvMemStorage *storage2;     \/* contains approximated contours$/;"	m	struct:_CvContourScanner
+subst_flag	findContours.h	/^    int subst_flag;$/;"	m	struct:_CvContourScanner
+swap	graham2.cpp	/^void inline swap(Point &p1, Point &p2)$/;"	f
+threshold	threshold.cpp	/^void threshold( cv::Mat & img, unsigned int iThresh, unsigned int max_value)$/;"	f
+total	findContours.h	/^    int       total;          \/**< Total number of elements.            *\/$/;"	m	struct:Contour
+trailingZeros	findContours.cpp	/^static inline unsigned int trailingZeros(unsigned int value)$/;"	f	file:
+v_next	findContours.h	/^    struct    CvSeq* v_next;    \/**< 2nd next sequence.       *\/$/;"	m	struct:Contour	typeref:struct:Contour::CvSeq
+v_prev	findContours.h	/^    struct    CvSeq* v_prev;    \/**< 2nd previous sequence.   *\/      $/;"	m	struct:Contour	typeref:struct:Contour::CvSeq
+vex	graham.cpp	/^node vex[1000];$/;"	v
+x	graham.cpp	/^    int x,y;$/;"	m	struct:node	file:
+x	stackHull.cpp	/^    int x;$/;"	m	struct:Point	file:
+xx	graham.cpp	/^int xx,yy;$/;"	v
+y	graham.cpp	/^    int x,y;$/;"	m	struct:node	file:
+y	stackHull.cpp	/^    int y;$/;"	m	struct:Point	file:
+yy	graham.cpp	/^int xx,yy;$/;"	v
