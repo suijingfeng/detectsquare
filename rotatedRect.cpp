@@ -1,6 +1,4 @@
-#include <cv.h>
 #include <opencv2/highgui.hpp>
-#include <opencv2/imgproc.hpp>
 #include <vector>
 #include <iostream>
 #include <string>
@@ -11,8 +9,6 @@
 #include "rotatingCalipers.h"
 #include "findContours.h"
 #include "threshold.h"
-
-using namespace std;
 
 cv::Mat g_img;
 
@@ -27,24 +23,26 @@ void drawBox(cv::Mat &img, cv::RotatedRect box)
     
     //for (int i = 0; i < 4; i++)
     //    line(img, vertices[i], vertices[(i+1)%4], cv::Scalar(0,255,0));
-    
-    line(img, vertices[0], vertices[1], cv::Scalar(0,255,0), 2);
-    line(img, vertices[1], vertices[2], cv::Scalar(0,255,0), 2);
-    line(img, vertices[2], vertices[3], cv::Scalar(0,255,0), 2);
-    line(img, vertices[3], vertices[0], cv::Scalar(0,255,0), 2);
+    if ( !img.empty() )
+    {    
+        line(img, vertices[0], vertices[1], cv::Scalar(0,255,0), 2);
+        line(img, vertices[1], vertices[2], cv::Scalar(0,255,0), 2);
+        line(img, vertices[2], vertices[3], cv::Scalar(0,255,0), 2);
+        line(img, vertices[3], vertices[0], cv::Scalar(0,255,0), 2);
 
-    imshow("rectangles", img);
-    cv::waitKey(0);
+        imshow("rectangles", img);
+        cv::waitKey(0);
+    }
 }
 
 
-void GetBlackQuadHypotheses(const std::vector<std::vector< cv::Point > > & contours, const std::vector< cv::Vec4i > & hierarchy, std::vector<float> & quads)
+void GetBlackQuadHypotheses(const std::vector<std::vector< cv::Point > > &contours, const std::vector< cv::Vec4i > &hierarchy, std::vector<float> &quads)
 {
     const float min_aspect_ratio = 0.5f, max_aspect_ratio = 2.0f;
     const float min_quad_size = 10.0f, max_quad_pixel = 250;
     
     std::vector< std::vector< cv::Point > >::const_iterator pt;
-    std::cout << "contours.size(): " << contours.size() << std::endl;
+    printf("contours.size(): %ld\n", contours.size());
 
     for(pt = contours.begin(); pt != contours.end(); ++pt)
     {
@@ -59,14 +57,14 @@ void GetBlackQuadHypotheses(const std::vector<std::vector< cv::Point > > & conto
         if(pt->size() < 20)
             continue;
         //const std::vector< cv::Point > & c = *i;
-        std::cout<< "pt->size(): " << pt->size() << std::endl;
+        printf("pt->size(): %ld\n", pt->size() );
         
         // cv::RotatedRect box = minRectArea(*pt);
-        std::vector<cv::Point> hpoints;
         //convexHull(*pt, hpoints, false, true);
-        hpoints = convex_hull(*pt);
-        
-        cv::RotatedRect box = rotatingCalipersMinAreaRect(hpoints);
+
+        std::vector<cv::Point> hpoints = convex_hull(*pt);
+    
+        cv::RotatedRect box = minAreaRect(hpoints);
 
         float box_size = MAX(box.size.width, box.size.height);
         
@@ -80,12 +78,11 @@ void GetBlackQuadHypotheses(const std::vector<std::vector< cv::Point > > & conto
         drawBox(g_img, box);
         quads.push_back( box_size );
     }
-    std::cout << "quads.size(): " << quads.size() << std::endl;
+    printf("quads.size(): %ld\n", quads.size() );
 }
 
 
-
-bool checkBlackQuads(std::vector<float> & quads, const cv::Size & size)
+bool checkBlackQuads(std::vector<float> &quads, const cv::Size &size)
 {
     const unsigned int black_quads_count = (size.width+1) * (size.height+1) / 2 + 1;
     const unsigned int min_quads_count = black_quads_count * 0.75;

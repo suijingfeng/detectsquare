@@ -4,5 +4,5 @@
 #include <vector>
 #include <cv.h>
 
-cv::RotatedRect rotatingCalipersMinAreaRect(std::vector<cv::Point> &points);
+cv::RotatedRect minAreaRect(std::vector<cv::Point> &points);
 #endif

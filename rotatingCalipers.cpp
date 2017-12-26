@@ -1,17 +1,11 @@
-#include "opencv2/highgui.hpp"
-#include "opencv2/imgproc.hpp"
-
-#include <iostream>
-
-using namespace cv;
-using namespace std;
+#include "rotatingCalipers.h"
 
 /* Parameters:
     points: convex hull vertices (any orientation)
     we will use usual cartesian coordinates 
 */
 
-cv::RotatedRect rotatingCalipersMinAreaRect(std::vector<cv::Point> &points)
+cv::RotatedRect minAreaRect(std::vector<cv::Point> &points)
 {
     cv::RotatedRect box;
     int n = points.size();
@@ -61,7 +55,6 @@ cv::RotatedRect rotatingCalipersMinAreaRect(std::vector<cv::Point> &points)
             }
             minarea = (right_x - left_x) * (top_y - bottom_y);
         }
-
 
         // Main loop - evaluate angles and rotate calipers
 
@@ -159,7 +152,6 @@ cv::RotatedRect rotatingCalipersMinAreaRect(std::vector<cv::Point> &points)
                                  / (2.0 * (aa + bb));
                 }
             }
-
         }     // for ended
     }    // if n > 2 end
     else if( n == 2 )
@@ -176,7 +168,6 @@ cv::RotatedRect rotatingCalipersMinAreaRect(std::vector<cv::Point> &points)
         box.center = points[0];
     else
         fprintf(stderr, "rotatingCalipersMinAreaRect:no input point!\n");
-
 
     return box; 
 }

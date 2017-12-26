@@ -1,8 +1,0 @@
-/home/suijingfeng/Desktop/detectsquare/build/CMakeFiles/edit_cache.dir
-/home/suijingfeng/Desktop/detectsquare/build/CMakeFiles/rebuild_cache.dir
-/home/suijingfeng/Desktop/detectsquare/build/CMakeFiles/stackHull.dir
-/home/suijingfeng/Desktop/detectsquare/build/CMakeFiles/learnCvSeq.dir
-/home/suijingfeng/Desktop/detectsquare/build/CMakeFiles/detectsquare.dir
-/home/suijingfeng/Desktop/detectsquare/build/CMakeFiles/drawContours.dir
-/home/suijingfeng/Desktop/detectsquare/build/CMakeFiles/test.dir
-/home/suijingfeng/Desktop/detectsquare/build/CMakeFiles/rotatedRect.dir

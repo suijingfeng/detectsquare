@@ -3,9 +3,8 @@
 // Practical performance: 0.5-1.0 seconds for n=1000000 on a 1GHz machine.
 #include <algorithm>
 #include <vector>
-#include <opencv2/highgui.hpp>
 #include <opencv2/imgproc.hpp>
-
+#include "convexHull.h"
 
 // 2D cross product of OA and OB vectors, i.e. z-component of their 3D cross product.
 // Returns a positive value, if OAB makes a counter-clockwise turn,

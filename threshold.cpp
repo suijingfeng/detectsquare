@@ -1,20 +1,16 @@
-#include <opencv2/highgui.hpp>
 #include <opencv2/imgproc.hpp>
 
-void threshold( cv::Mat & img, unsigned int iThresh, unsigned int max_value)
+void threshold(cv::Mat &img, unsigned int iThresh, unsigned int max_value)
 {
-    if( iThresh >= 0 )
+    for (int jj = 0; jj < img.rows; jj++)
     {
-        for (int jj = 0; jj < img.rows; jj++)
+        unsigned char * row = img.ptr(jj);
+        for (int ii = 0; ii < img.cols; ii++)
         {
-            unsigned char * row = img.ptr(jj);
-            for (int ii = 0; ii < img.cols; ii++)
-            {
-                if( row[ii] <= iThresh )
-                    row[ii] = 0;
-                else
-                    row[ii] = max_value;
-            }
+            if( row[ii] <= iThresh )
+                row[ii] = 0;
+            else
+                row[ii] = max_value;
         }
     }
 }
