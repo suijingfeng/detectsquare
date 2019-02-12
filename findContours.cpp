@@ -130,7 +130,10 @@ CvSeq *cvEndWriteSeq( CvSeqWriter * writer )
 
         if( (unsigned)((storage_block_max - storage->free_space) - seq->block_max) < STRUCT_ALIGN )
         {
-            storage->free_space = cvAlignLeft((int)(storage_block_max - seq->ptr), STRUCT_ALIGN);
+            //storage->free_space = cvAlignLeft((int)(storage_block_max - seq->ptr), STRUCT_ALIGN);
+            int size = storage_block_max - seq->ptr;
+            int align = -STRUCT_ALIGN;
+            storage->free_space = size & -align;
             seq->block_max = seq->ptr;
         }
     }
@@ -138,6 +141,7 @@ CvSeq *cvEndWriteSeq( CvSeqWriter * writer )
     writer->ptr = 0;
     return seq;
 }
+
 
 /*  
 static void changeSeqBlock(void* _reader, int direction)
